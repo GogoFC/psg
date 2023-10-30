@@ -7,6 +7,7 @@
 - [bhyve](https://bhyve.org/)
 
 
+![drawing](/images/server-overview.png)
 
 
 
@@ -22,5 +23,4 @@
 | `guacamole`  | Remote Desktop access |
 | `xubuntu`  |  Ubuntu with Desktop Environment |
 
-![drawing](/images/server-overview.png)
 
