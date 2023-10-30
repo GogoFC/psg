@@ -1,1 +1,1 @@
-# PSG Nextcloud server Documentation
+### PSG Nextcloud Server Documentation
