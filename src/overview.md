@@ -1,16 +1,16 @@
 # Server Overview - Dell Power Edge R240
 
-### Operating System: [FreeBSD](https://www.freebsd.org/)
-### Hypervisor: [bhyve](https://bhyve.org/)
+##### Operating System: [FreeBSD](https://www.freebsd.org/)
+#### Hypervisor: [bhyve](https://bhyve.org/)
 
-### ZFS pools: 
-- `zroot` - OS pool
-- `fantom-pool` - backup pool
 
-### Hypervisor: 
-- bhyve
+| ZFS pools |    |
+|  --  |  --  |
+| `zroot` | OS pool |
+| `fantom-pool`  | backup pool |
 
-| Virtual machines |    |
+
+| Virtual machines     |
 |  --  |  --  |
 | `nextcloud-psg` | Nextcloud server production VM |
 | `guacamole`  | Remote Desktop access |
