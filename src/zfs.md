@@ -74,3 +74,25 @@ zroot/vm/xubuntu/disk0                        14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
 
+## Virtual Machine Datasets
+
+Dataset for VM's is `zroot/vm` mounted on `/zroot/vm`.
+
+Each VM has two datasets. One for VM config files and one for the Disk.
+
+List of all VM's datasets:
+
+```sh
+➜  ~ zfs list -r zroot/vm
+NAME                             USED  AVAIL     REFER  MOUNTPOINT
+zroot/vm                        1.59T  1.92T     14.4G  /zroot/vm
+zroot/vm/guacamole              4.97G  1.92T      120K  /zroot/vm/guacamole
+zroot/vm/guacamole/disk0        4.97G  1.92T     3.31G  -
+zroot/vm/nextcloud-psg          1.55T  1.92T      120K  /zroot/vm/nextcloud-psg
+zroot/vm/nextcloud-psg/disk0    1.55T  1.92T     1.42T  -
+zroot/vm/ubuntu-template        5.03G  1.92T      104K  /zroot/vm/ubuntu-template
+zroot/vm/ubuntu-template/disk0  5.03G  1.92T     5.03G  -
+zroot/vm/xubuntu                14.0G  1.92T      120K  /zroot/vm/xubuntu
+zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
+➜  ~ 
+```
