@@ -27,7 +27,7 @@ zfs quota
 
 `zfs list` will list all ZFS Datasets.
 
-```sh
+```java
 ➜  ~ zfs list
 NAME                                           USED  AVAIL     REFER  MOUNTPOINT
 fantom-pool                                   1.37T  3.96T       96K  /fantom-pool
@@ -82,7 +82,7 @@ Each VM has two datasets. One for VM config files and one for the Disk.
 
 List of all VM's datasets:
 
-```sh
+```python
 ➜  ~ zfs list -r zroot/vm
 NAME                             USED  AVAIL     REFER  MOUNTPOINT
 zroot/vm                        1.59T  1.92T     14.4G  /zroot/vm
