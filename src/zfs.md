@@ -12,5 +12,5 @@ Check status of ZFS pools by running command `zpool status`.
 
 #### `zroot` partitions.
 
-![zroot partitions](/images/zroot-partitions.md)
+![zroot partitions](/images/zroot-partitions.png)
 
