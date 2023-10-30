@@ -7,14 +7,16 @@
 - [bhyve](https://bhyve.org/)
 
 
-![drawing](/images/server-overview.png)
-
-
 
 | ZFS pools |  |
 |  --  |  --  | 
 | `zroot` | OS pool |
 | `fantom-pool`  | Backup pool |
+
+
+![drawing](/images/server-overview.png)
+
+
 
 
 
