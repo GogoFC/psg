@@ -24,10 +24,11 @@
 
 
 | ZFS Pools  |   | 
+|  --  |  --  | 
 | `zroot` | OS pool |
 | `fantom-pool`  | backup pool |
-| Virtual machines  |   |
-|  --  |  --  | | |
+| | | | |
+| Virtual machines  |   | | |
 | `nextcloud-psg` | Nextcloud server production VM | | |
 | `guacamole`  | Remote Desktop access |
 | `xubuntu`  |  Ubuntu with Desktop Environment |
