@@ -25,3 +25,9 @@ git-scm
 
 ssh-keygen -b 4096
 
+Mikrotik
+
+rules
+
+vm 
+
