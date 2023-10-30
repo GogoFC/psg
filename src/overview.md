@@ -1,2 +1,2 @@
 # Server Overview
-![drawing](/images/server-overview.png)
+![drawing](/images/server-overview-grid.png)
