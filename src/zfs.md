@@ -4,6 +4,9 @@
 
 Check status of ZFS pools by running command `zpool status`.
 
+There are two ZFS pools:
+- `fantom-pool`
+- `zroot`
 
 ![zpool status](/images/zpool-status.png)
 
