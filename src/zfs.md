@@ -27,7 +27,7 @@ zfs quota
 
 `zfs list` will list all ZFS Datasets.
 
-```
+```sh
 ➜  ~ zfs list
 NAME                                           USED  AVAIL     REFER  MOUNTPOINT
 fantom-pool                                   1.37T  3.96T       96K  /fantom-pool
