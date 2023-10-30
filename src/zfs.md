@@ -82,7 +82,7 @@ Each VM has two datasets. One for VM config files and one for the Disk.
 
 List of all VM's datasets:
 
-```c
+```git
 ➜  ~ zfs list -r zroot/vm
 NAME                             USED  AVAIL     REFER  MOUNTPOINT
 zroot/vm                        1.59T  1.92T     14.4G  /zroot/vm
@@ -96,7 +96,7 @@ zroot/vm/xubuntu                14.0G  1.92T      120K  /zroot/vm/xubuntu
 zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
-```C++
+```rust
 ➜  ~ zfs list -r fantom-pool/vm
 NAME                              USED  AVAIL     REFER  MOUNTPOINT
 fantom-pool/vm                   7.63G  3.96T      104K  /fantom-pool/vm
