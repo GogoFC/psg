@@ -13,3 +13,15 @@ stopping vm starting
 
 bhyve
 
+how to login
+
+create ssh keys
+
+remove
+
+ssh-copy-id
+
+git-scm 
+
+ssh-keygen -b 4096
+
