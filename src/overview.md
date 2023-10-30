@@ -6,6 +6,7 @@
 ### Hypervisor: 
 - [bhyve](https://bhyve.org/)
 
+![drawing](/images/server-overview.png)
 
 | Virtual machines  |   |
 |  --  |  --  |
@@ -13,4 +14,4 @@
 | `guacamole`  | [Apache Guacamole](https://guacamole.apache.org/) Remote Desktop access |
 | `xubuntu`  |  [Ubuntu](https://xubuntu.org/) with Desktop Environment |
 
-![drawing](/images/server-overview.png)
+
