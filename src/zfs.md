@@ -78,7 +78,7 @@ zroot/vm/xubuntu/disk0                        14.0G  1.92T     9.69G  -
 
 Dataset for VM's is `zroot/vm` mounted on `/zroot/vm`.
 
-Each VM has two datasets. One for VM config files and one for the Disk.
+- Each VM has two datasets. One for VM config files and one for the Disk.
 
 List of all VM's datasets:
 
@@ -96,9 +96,10 @@ zroot/vm/xubuntu                14.0G  1.92T      120K  /zroot/vm/xubuntu
 zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
+
 Another dataset for VM's is `fantom-pool/vm` but it is not used for production.
 
-It only has one VM running for keeping the USB Disks awake.
+- Dataset `fantom-pool/vm` has only one VM running for keeping the USB Disks awake.
 
 ```sh
 ➜  ~ zfs list -r fantom-pool/vm
