@@ -1,9 +1,9 @@
 # Server Overview - Dell Power Edge R240
 
-**Operating System:**
+### Operating System:
 - [FreeBSD](https://www.freebsd.org/)
 
-### Hypervisor: 
+**Hypervisor:** 
 - [bhyve](https://bhyve.org/)
 
 ![drawing](/images/server-overview.png)
