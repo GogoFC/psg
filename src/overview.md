@@ -22,7 +22,7 @@
 
 | Virtual machines  |   |
 |  --  |  --  |
-| `nextcloud-psg` | Nextcloud server production VM |
+| `nextcloud-psg` | Nextcloud Server production VM |
 | `guacamole`  | Remote Desktop access |
 | `xubuntu`  |  Ubuntu with Desktop Environment |
 
