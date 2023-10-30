@@ -1,8 +1,7 @@
 # Server Overview - Dell Power Edge R240
 
-### : 
-- 
-| Operating System  | FreeBSD |
+### Operating System: [FreeBSD](https://www.freebsd.org/)
+### Hypervisor: [bhyve](https://bhyve.org/)
 
 ### ZFS pools: 
 - `zroot` - OS pool
