@@ -16,7 +16,7 @@ ZFS pool named `zroot` is the main pool where OS is installed.  The ZFS pool con
 
 ## Disk partitions.
 
-Pool `zroot` uses partition `2` from each Disk `/dev/ada0` and `/dev/ada1`. 
+Pool `zroot` uses partition number `2` from each of the `/dev/ada0` and `/dev/ada1` Disks. 
 
 ![zroot partitions](/images/zroot-partitions.png)
 
