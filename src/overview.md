@@ -1,1 +1,1 @@
-![drawing](/images/server-overview-grid.png)
+![drawing](/images/server-overview-transparent.png)
