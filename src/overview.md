@@ -9,14 +9,14 @@
 
 ![drawing](/images/server-overview.png)
 
----
+
 
 | ZFS pools |  |
 |  --  |  --  | 
 | `zroot` | OS pool |
 | `fantom-pool`  | Backup pool |
 
----
+
 
 | Virtual machines  |   |
 |  --  |  --  |
@@ -24,4 +24,3 @@
 | `guacamole`  | Remote Desktop access |
 | `xubuntu`  |  Ubuntu with Desktop Environment |
 
----
