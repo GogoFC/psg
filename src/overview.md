@@ -7,8 +7,11 @@
 - [bhyve](https://bhyve.org/)
 
 
-| ZFS pools |    | | |
-|  --  |  --  | | |
+
+
+
+| ZFS pools |  |
+|  --  |  --  | 
 | `zroot` | OS pool |
 | `fantom-pool`  | Backup pool |
 
@@ -20,5 +23,4 @@
 | `xubuntu`  |  Ubuntu with Desktop Environment |
 
 ![drawing](/images/server-overview.png)
-
 
