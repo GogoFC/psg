@@ -29,6 +29,6 @@
 | `nextcloud-psg` | Nextcloud server production VM | | |
 | `guacamole`  | Remote Desktop access |
 | `xubuntu`  |  Ubuntu with Desktop Environment |
-| Virtual machines  |   | | |
-|  --  |  --  | | |
-| `nextcloud-psg` | Nextcloud server production VM | | |
+| ZFS Pools  |   | 
+| `zroot` | OS pool |
+| `fantom-pool`  | backup pool |
