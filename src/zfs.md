@@ -74,7 +74,7 @@ zroot/vm/xubuntu/disk0                        14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
 
-## Virtual Machine Datasets
+## Datasets for Virtual Machines
 
 Dataset for VM's is `zroot/vm` mounted on `/zroot/vm`.
 
@@ -97,6 +97,7 @@ zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
 Another dataset for VM's is `fantom-pool/vm` but it is not used for production.
+
 It only has one VM running for keeping the USB Disks awake.
 
 ```sh
