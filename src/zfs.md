@@ -96,7 +96,7 @@ zroot/vm/xubuntu                14.0G  1.92T      120K  /zroot/vm/xubuntu
 zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
-```bash
+```csh
 ➜  ~ zfs list -r fantom-pool/vm
 NAME                              USED  AVAIL     REFER  MOUNTPOINT
 fantom-pool/vm                   7.63G  3.96T      104K  /fantom-pool/vm
