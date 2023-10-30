@@ -8,7 +8,7 @@ title = "PSG Nextcloud Docs"
 [output.html]
 default-theme = "navy"
 no-section-label = true
-git-repository-url = "https://github.com/GogoFC/psg/tree/main"
+git-repository-url = "https://github.com/GogoFC/psg"
 git-repository-icon = "fa-github"
 edit-url-template = "https://github.com/GogoFC/psg/edit/main/{path}"
 site-url = "/html/"
