@@ -76,7 +76,7 @@ zroot/vm/xubuntu/disk0                        14.0G  1.92T     9.69G  -
 
 ## Datasets for Virtual Machines
 
-Dataset for VM's is `zroot/vm` mounted on `/zroot/vm`.
+Dataset for VM's is `zroot/vm` and it is mounted on `/zroot/vm`.
 
 - Each VM has two datasets. One for VM config files and one for the Disk.
 
