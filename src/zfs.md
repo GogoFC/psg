@@ -96,3 +96,13 @@ zroot/vm/xubuntu                14.0G  1.92T      120K  /zroot/vm/xubuntu
 zroot/vm/xubuntu/disk0          14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
+```zsh
+➜  ~ zfs list -r fantom-pool/vm
+NAME                              USED  AVAIL     REFER  MOUNTPOINT
+fantom-pool/vm                   7.63G  3.96T      104K  /fantom-pool/vm
+fantom-pool/vm/keep-awake        2.42G  3.96T      112K  /fantom-pool/vm/keep-awake
+fantom-pool/vm/keep-awake/disk0  2.42G  3.96T     2.42G  -
+fantom-pool/vm/seafile           5.20G  3.96T      112K  /fantom-pool/vm/seafile
+fantom-pool/vm/seafile/disk0     5.20G  3.96T     5.20G  -
+➜  ~ 
+```
