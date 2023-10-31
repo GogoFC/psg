@@ -1,4 +1,6 @@
-# Server Overview - Dell Power Edge R240
+![DellEMC](/images/Dell_EMC.png)
+
+# Server Overview - Dell PowerEdge R240
 
 ### Operating System:
 - [FreeBSD](https://www.freebsd.org/)
