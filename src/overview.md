@@ -2,7 +2,7 @@
 
 # Server Overview 
 
-- Dell PowerEdge R240
+Dell PowerEdge R240
 
 ### Operating System:
 - [FreeBSD](https://www.freebsd.org/)
