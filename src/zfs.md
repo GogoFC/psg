@@ -1,7 +1,7 @@
 ![ZFS](/images/openzfs.png)
 # ZFS
 
-## Zpool Status
+# Zpool Status
 
 Check status of ZFS pools by running command `zpool status`.
 
@@ -15,7 +15,7 @@ ZFS pool named `fantom-pool` is the backup pool made of two USB Fantom Drives `d
 
 ZFS pool named `zroot` is the main pool where OS is installed.  The ZFS pool consists of two disk partitions `ada0p2` and `ada1p2` in a ZFS mirror config. 
 
-## Disk partitions.
+# Disk partitions.
 
 Pool `zroot` uses partition number `2` from each of the `/dev/ada0` and `/dev/ada1` Disks. 
 
@@ -24,7 +24,7 @@ Pool `zroot` uses partition number `2` from each of the `/dev/ada0` and `/dev/ad
 zfs quota 
 
 
-## Datasets
+# Datasets
 
 `zfs list` will list all ZFS Datasets.
 
@@ -75,7 +75,7 @@ zroot/vm/xubuntu/disk0                        14.0G  1.92T     9.69G  -
 ➜  ~ 
 ```
 
-## Datasets for Virtual Machines
+# Datasets for Virtual Machines
 
 Dataset for VM's is `zroot/vm` and it is mounted on `/zroot/vm`.
 
