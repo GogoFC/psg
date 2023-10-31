@@ -1,3 +1,11 @@
 ![FreeBSD](/images/freebsd.png)
 
-# FreeBSD
+
+# Installing Updates
+
+```sh
+sudo freebsd-update fetch install 
+```
+```sh
+sudo pkg upgrade
+```
