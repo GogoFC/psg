@@ -1,4 +1,4 @@
 ![bhyve](/images/bhyve.png)
 
-# bhyve - The BSD Hypervisor
+# The BSD Hypervisor
 
