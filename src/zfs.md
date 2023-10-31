@@ -1,3 +1,4 @@
+![ZFS](/images/openzfs.png)
 # ZFS
 
 ## Zpool Status
