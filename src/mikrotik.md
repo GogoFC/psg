@@ -1,6 +1,5 @@
 ![Mikrotik](/images/mikrotik.png)
 
-![Mikrotik](/images/mikrotik1.png)
 
 # Mikrotik
 
